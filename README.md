@@ -1,4 +1,4 @@
-# 🎓 ScholarAI — AI-Powered Study Assistant
+# 🎓 ScholarAI: AI-Powered Study Assistant
 
 ScholarAI is a Python-based educational application designed to help students study more efficiently through AI-generated notes, practice quizzes, flashcards, and progress tracking.
 
