@@ -1,0 +1,25 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private API keys
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Personal quiz history
+scholarai_progress.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
