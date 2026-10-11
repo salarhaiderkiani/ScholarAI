@@ -4,6 +4,14 @@ ScholarAI is a Python-based educational application designed to help students st
 
 I built ScholarAI as a personal Computer Science project to combine AI-generated notes, practice quizzes, flashcards, and progress tracking in one Python app. The goal was to build something useful while learning about Streamlit, AI models, and local data storage.
 
+## Watch the Demo
+
+[▶ Watch the real ScholarAI demo (1 minute 27 seconds)](ScholarAI_Real_App_Demo.mp4)
+
+[![Watch ScholarAI in action](screenshots/homepage.jpeg)](ScholarAI_Real_App_Demo.mp4)
+
+This short video shows me actually using ScholarAI: generating notes, completing a quiz, reviewing flashcards, and opening the progress dashboard. I removed longer waiting periods to keep the demonstration concise.
+
 ## Features
 
 - **AI Study Notes:** Generate revision notes and explanations for different subjects and topics.
