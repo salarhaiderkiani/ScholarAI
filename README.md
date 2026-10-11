@@ -1,6 +1,8 @@
-# 🎓 ScholarAI AI-Powered Study Assistant
+# 🎓 ScholarAI — AI-Powered Study Assistant
 
 ScholarAI is a Python-based educational application designed to help students study more efficiently through AI-generated notes, practice quizzes, flashcards, and progress tracking.
+
+I built ScholarAI as a personal Computer Science project to combine AI-generated notes, practice quizzes, flashcards, and progress tracking in one Python app. The goal was to build something useful while learning about Streamlit, AI models, and local data storage.
 
 ## Features
 
@@ -11,6 +13,20 @@ ScholarAI is a Python-based educational application designed to help students st
 - **Document Support:** Upload TXT, Markdown, PDF, and DOCX study material.
 - **PDF Export:** Download generated notes for offline revision.
 - **Dual AI Support:** Use Google Gemini online or Ollama locally.
+
+## Project Screenshots
+
+### Main interface
+![ScholarAI homepage](screenshots/homepage.jpeg)
+
+### Generated notes
+![ScholarAI study notes](screenshots/study-notes.jpeg)
+
+### Practice quiz
+![ScholarAI quiz](screenshots/quiz.jpeg)
+
+### Progress dashboard
+![ScholarAI dashboard](screenshots/dashboard.jpeg)
 
 ## Technologies Used
 
@@ -46,7 +62,7 @@ For online AI, obtain a Gemini API key from Google AI Studio and enter it in the
 
 For offline AI, install Ollama and download the `llama3.2:3b` model.
 
-## Limitations
+## Limitations and Future Improvements
 
 AI-generated educational content may contain inaccuracies. Quiz grading may not recognize all mathematically equivalent answers. Online AI requires internet access and is subject to API limits, while offline AI performance depends on the computer's hardware.
 
